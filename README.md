@@ -21,11 +21,6 @@ followed by the country code;
 date (YYYY-MM-DD),three letter country code (or XXX for unknown states), number of impressions, number of
 clicks (rounded, assuming the CTR is exact)
 
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when
-using the project.
-
 ## Links to used libraries in the project
 
 - Pycountry: https://pypi.org/project/pycountry/
